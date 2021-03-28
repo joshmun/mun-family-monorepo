@@ -1,5 +1,16 @@
 node_modules/
 .node_modules/
 
+node_modules/**/*
+family-app/.expo/*
+family-app/npm-debug.*
+family-app/*.jks
+family-app/*.p8
+family-app/*.p12
+family-app/*.key
+family-app/*.mobileprovision
+family-app/*.orig.*
+family-app/web-build/
+
 # macOS
 .DS_Store
